@@ -4,4 +4,3 @@ doc/api*
 doc/app/*
 doc/guides/*
 *.swp
-config/database.yml
